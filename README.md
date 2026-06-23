@@ -14,8 +14,7 @@ This project is not intended to be a final application, but rather a learning en
 
 ## Technologies
 - **Languages:** Python 3.10.11, C
-- **Core:** Ultralytics YOLO, OpenCV, NumPy
-- **Utilities:** Pillow, PyAutoGUI
+- **Core:** Ultralytics YOLO, OpenCV, NumPy, PyAutoGUI
 - **Environment:** Windows (Development and Testing)
 
 ## Project Structure
