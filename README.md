@@ -23,4 +23,4 @@ This project is not intended to be a final application, but rather a learning en
 dataset/          # Images and annotations (YAML format)
 model/            # Trained models (.pt)
 results/          # Training metric graphs
-scripts/          # Python (screenshot, inference) and C (WinAPI)
+scripts/          # Python (screenshot, inference, train) and C (WinAPI)
